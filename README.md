@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Ramesh 👋
+
+I'm a passionate Software Engineer with 9+ years of experience specializing in Backend/infrastructure, Web development. Interested in devising a better problemsolving
+method for challenging tasks, and learning new technologies and tools if the need arises.
+
+[Homepage](https:/rameshkumar.me) [Linkedin](https://www.linkedin.com/in/trkrameshkumar/) [Resume](https://rameshkumar.me/ramesh_kumar_cv.pdf)
 
 <!--
 **trkrameshkumar/trkrameshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
